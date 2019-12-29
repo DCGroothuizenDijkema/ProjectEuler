@@ -32,5 +32,8 @@
 *.out
 *.app
 
+# Debugging
+*.pdb
+
 # VS Code folders
 .vscode/

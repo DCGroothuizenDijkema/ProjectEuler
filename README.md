@@ -1,7 +1,7 @@
 
 # ProjectEuler
 
-Solutions to Project Euler Problems
+My solutions to Project Euler Problems
 
 This repository contains my solutions to the problems found on [Project Euler](https://www.projecteuler.net). The solution to each problem can be found in its own folder, along with a description of the problem and, if necessary, of the solution.
 

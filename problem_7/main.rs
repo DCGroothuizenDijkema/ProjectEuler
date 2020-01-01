@@ -27,10 +27,7 @@ fn run()
   let mut cnt: i32=0;
   for (itr,prime) in primes.into_iter().enumerate()
   {
-    if prime
-    {
-      cnt+=1;
-    }
+    if prime { cnt+=1; }
     if cnt==10001
     {
       println!("The 10001st prime is {}",itr);

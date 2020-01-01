@@ -16,20 +16,11 @@ void run(void)
 
   while(itr*itr<val)
   {
-    if (val%itr==0)
-    {
-      val/=itr;
-    }
-    else
-    {
-      ++itr;
-    }
+    if (val%itr==0) { val/=itr; }
+    else { ++itr; }
   }
 
-  if (val>itr)
-  {
-    itr=val;
-  }
+  if (val>itr) { itr=val; }
 
   std::cout << "The largest prime factor of " << n << " is " << itr << std::endl;
 }

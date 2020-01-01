@@ -1,4 +1,10 @@
 
+//
+// Project Euler Problem 7: 10001st prime
+//
+// D. C. Groothuizen Dijkema - December, 2019
+//
+
 fn upper_bound(a: i32) -> i32
 {
   let n: f64=a as f64;

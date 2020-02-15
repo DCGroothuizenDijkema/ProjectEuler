@@ -31,7 +31,7 @@ int main(void)
   run();
   std::chrono::time_point<std::chrono::steady_clock> finish = std::chrono::high_resolution_clock::now();
   std::chrono::duration<double> elapsed=finish-start;
-  std::cout << "Elapsed time: " << elapsed.count() << std::endl;;
+  std::cout << "Elapsed time: " << elapsed.count() << std::endl;
 
   return 0;
 }

@@ -32,6 +32,10 @@
 *.out
 *.app
 
+# OCaml files
+*.cmi
+*.cmo
+
 # Debugging
 *.pdb
 

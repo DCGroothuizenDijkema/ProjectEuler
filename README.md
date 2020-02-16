@@ -7,7 +7,7 @@ This repository contains my solutions to the problems found on [Project Euler](h
 
 ## Languages
 
-The solutions are (or will be) written variously in C, C++, Rust, Python, or Fortran, and sometimes more than one.
+The solutions are (or will be) written variously in C, C++, Rust, Python, Fortran, or OCaml, and sometimes more than one.
 
 Should any of the build instruction for a project differ from those given below, it will be noted in that project's READEME.
 
@@ -47,4 +47,12 @@ Fortran solution are built with [MinGW-w64](http://mingw-w64.org/doku.php), [spe
 
 ```shell
 gfortran -ffree-form -o <project> *.f
+```
+
+### OCaml
+
+Ocaml for Windows was installed from [here](https://fdopen.github.io/opam-repository-mingw/installation/), and the solution is run with:
+
+```shell
+ocaml <project>.ml
 ```

@@ -13,4 +13,4 @@ let rec run a b=
     else failwith "They lied to us."
 
 let prod=run 1 2 
-let () = print_endline (string_of_int prod)
+let ()=print_endline (string_of_int prod)

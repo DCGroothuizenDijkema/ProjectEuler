@@ -1,6 +1,6 @@
 
 (* 
-Project Euler Problem 10: Summation of primes
+Project Euler Problem 9: Special Pythagorean triplet
 
 D. C. Groothuizen Dijkema - February, 2020
 *)

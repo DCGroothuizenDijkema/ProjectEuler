@@ -5,6 +5,8 @@ My solutions to Project Euler Problems
 
 This repository contains my solutions to the problems found on [Project Euler](https://www.projecteuler.net). The solution to each problem can be found in its own folder, along with a description of the problem and, if necessary, of the solution.
 
+Per Project Euler, only the first 100 solutions will be made publicly available.
+
 ## Languages
 
 The solutions are (or will be) written variously in C, C++, Rust, Python, Fortran, or OCaml, and sometimes more than one.

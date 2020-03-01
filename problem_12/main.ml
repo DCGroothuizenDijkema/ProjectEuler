@@ -36,5 +36,5 @@ let run=
         else loop (succ itr)
   in loop 3
 
-let a=run
-let ()=print_endline (string_of_int a)
+let solution=run
+let ()=print_endline (string_of_int solution)

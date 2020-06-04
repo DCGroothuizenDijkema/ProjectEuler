@@ -1,5 +1,5 @@
 
-# Problem 17: Power digit sum
+# Problem 17: Number letter counts
 
 [Problem page](https://projecteuler.net/problem=17)
 
